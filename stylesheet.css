@@ -1,0 +1,117 @@
+
+body{
+	direction:rtl;
+	background-color:#E9DFD1;
+}	
+
+@font-face {
+	font-family: OSAran_400FFC;
+    src: C:\Users\User\Documents\מסמכים\אורי\fonts;
+	
+}	
+
+@font-face {
+    font-family: 'os_aran_ffc400';
+    src: url('os_aran_400ffc-webfont.woff2') format('woff2'),
+         url('os_aran_400ffc-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+#header{
+	border:3px solid red;
+	width:100%;
+	margin-bottom:20px;
+	text-align:center;
+}
+
+h1 {
+	font-size:500%;
+	-webkit-text-fill-color: #990000;
+	-webkit-text-stroke-width: 3px;
+	-webkit-text-stroke-color: #33001a;
+	font-family:NadavB;
+	margin-top:0px;
+	margin-bottom:10px;
+}	
+
+a {
+	color:black;
+	text-decoration:none;color:black;
+	text-decoration:none;
+	
+	
+}
+
+
+
+a:active {
+	color:green;
+	text-decoration:none;
+	
+	
+	
+	
+	
+}
+
+
+#main {
+	border:3px solid red;
+	width:70%;
+	height:150px;
+	float:left;
+	
+}
+
+#lola {
+	height:500px;
+	margin-right:35px;
+	
+}
+
+#menulinks {
+	border:3px solid red;
+	width:20%;
+	float:right;
+	font-family:NadavB;
+}
+
+
+.kii {
+	font-family:NadavB;
+	font-size:24px;
+	line-height:1.2;
+}	
+
+
+
+
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: 'os_aran_r_ffc600';
+    src:url('os_aran_r_600ffc-webfont.woff2') format('woff2'),
+         url('os_aran_r_600ffc-webfont.woff') format('woff'),
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'os_aran_w_ffc500';
+    src: url('os_aran_w_500ffc-webfont.woff2') format('woff2'),
+         url('os_aran_w_500ffc-webfont.woff') format('woff'),
+    font-weight: normal;
+    font-style: normal;
+
+}
