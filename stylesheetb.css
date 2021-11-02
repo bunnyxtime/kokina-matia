@@ -133,10 +133,10 @@ a:active {
 	height:600px;
 	float:right;
 	margin-top:-170px;
-		margin-right:-10px;
 -webkit-animation: focus-in-contract-bck 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
             animation: focus-in-contract-bck 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	pointer-events:none;
+	margin-right:-10px;
 }
 
 #menulinks {
@@ -148,7 +148,7 @@ a:active {
 }
 
 
-#home:active {
+#characters:active {
 	color:blue;
 }
 
@@ -184,7 +184,7 @@ a:active {
 }	
 
 #ki {
-float:right;
+	float:right;
 	width:30%;
 	height:20%;
 	margin-top:-20px;
@@ -217,10 +217,4 @@ float:right;
 	font-family:dana_yad_alefalefalefnormal;
 	font-size:25px;
 	margin-top:-25px;
-}
-#mars {
-	height:25px;
-	margin-right:-40px;
-	margin-top:-48px;
-	
 }
