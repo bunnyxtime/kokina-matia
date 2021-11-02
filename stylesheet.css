@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'dana_yad_alefalefalefnormal';
+    font-family: 'danayad';
     src: url('danayadalefalefalef-normal-webfont.eot');
     src: url('danayadalefalefalef-normal-webfont.eot?#iefix') format('embedded-opentype'),
          url('danayadalefalefalef-normal-webfont.woff2') format('woff2'),
@@ -121,7 +121,7 @@ a:active {
 
 #maintxt {
 	color:white;
-	font-family:dana_yad_alefalefalefnormal;
+	font-family:danayad;
 	font-size:25px;
 }
 #lola {
