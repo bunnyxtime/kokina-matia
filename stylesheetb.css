@@ -130,7 +130,7 @@ a:active {
 	font-size:25px;
 }
 #lola {
-	height:100px;
+	height:300px;
 	float:right;
 	margin-top:-10px;
 -webkit-animation: focus-in-contract-bck 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
