@@ -10,9 +10,10 @@
         font-style: normal;
     }
 
-    @font-face {
+@font-face {
         font-family: 'nadavb';
         src: url('NadavB.ttf') format('truetype');
+        url('NadavB.ttf') format('truetype');
         font-weight: normal;
         font-style: normal;
     }
