@@ -1,8 +1,3 @@
-
-
-
-
-
 @font-face {
     font-family: 'dana_yad_alefalefalefnormal';
     src: url('danayadalefalefalef-normal-webfont.eot');
@@ -13,11 +8,7 @@
          url('danayadalefalefalef-normal-webfont.svg#dana_yad_alefalefalefnormal') format('svg');
     font-weight: normal;
     font-style: normal;
-
 }
-
-
-
 
 body{
 	direction:rtl;
@@ -25,7 +16,6 @@ body{
 	-webkit-background-clip: text;
 	-webkit-fill-color: transparent;
 }	
-
 
 #header{
 	width:100%;
@@ -35,6 +25,7 @@ body{
     -webkit-animation: focus-in-contract-bck 1s cubic-bezier(0.250, 0.460, 0.450, 0.940)  both;
             animation: focus-in-contract-bck 1s cubic-bezier(0.250, 0.460, 0.450, 0.940)  both;
 }
+
 @-webkit-keyframes focus-in-contract-bck {
   0% {
     letter-spacing: 1em;
@@ -70,11 +61,9 @@ body{
   }
 }
 
-
 h1 {
 	font-size:500%;
 	-webkit-text-fill-color: #990000;
-
 	font-family:nadavb;
 	margin-top:0px;
 	margin-bottom:10px;
@@ -102,26 +91,16 @@ a {
 	color:white;
 	text-decoration:none;color:white;
 	text-decoration:none;
-	
 }
-
-
 
 a:active {
 	text-decoration:none;
-	
-	
-	
-	
-	
 }
-
 
 #main {
 	width:85%;
 	height:150px;
 	float:left;
-	
 }
 
 #maintxt {
@@ -129,6 +108,7 @@ a:active {
 	font-family:dana_yad_alefalefalefnormal;
 	font-size:25px;
 }
+
 #lola {
 	height:600px;
 	float:right;
@@ -140,13 +120,11 @@ a:active {
 }
 
 #menulinks {
-	
 	color:white;
 	width:20%;
 	float:right;
 	font-family:NadavB;
 }
-
 
 #characters:active {
 	color:blue;
@@ -159,6 +137,7 @@ a:active {
 #plot:active {
 	color:pink;
 }
+
 #plot {
 	
 }
@@ -170,17 +149,17 @@ a:active {
 #characters {
 	
 }
+
 .kii {
 	color:white;
 	font-family:NadavB;
 	font-size:24px;
 	line-height:1.3;
-	      color: #202020;
+	color: #202020;
     letter-spacing: .1em;
     text-shadow: 
       -1px -1px 1px #111, 
       2px 2px 1px #3a3a3a;
-	 
 }	
 
 #ki {
@@ -190,7 +169,6 @@ a:active {
 	margin-top:-20px;
 	margin-right:-510px;
 	text-align:center;
-	
 }
 
 #revenge {
