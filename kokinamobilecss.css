@@ -111,7 +111,7 @@ a {
 }
 
 #lola {
-        height:600px;
+        height:2000px;
         float:bottom;
         margin-top:-170px;
 -webkit-animation: focus-in-contract-bck 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
