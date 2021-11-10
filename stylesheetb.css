@@ -22,6 +22,7 @@
             background: linear-gradient(0deg, #b721ff 0%, #121212 100%);
             -webkit-background-clip: text;
             -webkit-fill-color: transparent;
+            margin:0%;
     }	
     
     #header{
@@ -69,7 +70,7 @@
     }
     
     h1 {
-            font-size:500%;
+            font-size:75px;
             -webkit-text-fill-color: #990000;
             font-family:nadavb;
             margin-top:0px;
@@ -123,7 +124,7 @@
     -webkit-animation: focus-in-contract-bck 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
                 animation: focus-in-contract-bck 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
             pointer-events:none;
-            margin-right:-10px;
+            margin-right:10px;
     }
     
     #menulinks {
@@ -174,7 +175,7 @@
             width:30%;
             height:20%;
             margin-top:-20px;
-            margin-right:-510px;
+            margin-right:10px;
             text-align:center;
     }
     
